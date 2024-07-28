@@ -33,7 +33,6 @@ To run this notebook, you need the following dependencies:
 
 You can install the required packages using pip:
 
-```bash
 pip install tensorflow numpy matplotlib keras jupyter
 Usage
 Clone the repository and navigate to the project directory.
