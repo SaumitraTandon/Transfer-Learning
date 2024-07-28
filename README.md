@@ -1,3 +1,4 @@
+
 # Transfer Learning and Fine-Tuning for Image Classification
 
 ## Overview
@@ -31,28 +32,35 @@ To run this notebook, you need the following dependencies:
 - Matplotlib
 - Keras
 
-markdown
 You can install the required packages using pip:
 
 ```bash
 pip install tensorflow numpy matplotlib keras jupyter
-Usage
-Clone the repository and navigate to the project directory.
-Open the Jupyter Notebook:
-bash
-Copy code
-jupyter notebook "Copy_of_Computer_Vision_Masterclass_Transfer_learning_and_fine_tuning.ipynb"
-Follow the instructions within the notebook to preprocess data, utilize transfer learning, fine-tune the model, and evaluate the results.
-Contributing
+```
+
+## Usage
+
+1. Clone the repository and navigate to the project directory.
+2. Open the Jupyter Notebook:
+    ```bash
+    jupyter notebook "Copy_of_Computer_Vision_Masterclass_Transfer_learning_and_fine_tuning.ipynb"
+    ```
+3. Follow the instructions within the notebook to preprocess data, utilize transfer learning, fine-tune the model, and evaluate the results.
+
+## Contributing
+
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-Contact
+## Contact
+
 For any questions or suggestions, please open an issue or contact the project maintainers.
+
+---
+
+```
